@@ -1,0 +1,46 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+
+<dimen name="icon_width">85dp</dimen>
+<dimen name="icon_height">85dp</dimen>
+<dimen name="background_height">200dp</dimen>
+<dimen name="ic_home_height">90dp</dimen>
+<dimen name="icon_top_margin">10dp</dimen>
+<dimen name="ic_home_top_margin">15dp</dimen>
+
+<!--ToDo dimen For ItemList-->
+<dimen name="card_view_height">94dp</dimen>
+<dimen name="shadow_width">85dp</dimen>
+<dimen name="list_item_image_left_margin">15dp</dimen>
+<dimen name="icon_tool_width">40dp</dimen>
+<dimen name="icon_tool_height">40dp</dimen>
+    <dimen name="tittle_text_size">17sp</dimen>
+    <dimen name="subtitle_text_size">14sp</dimen>
+    <dimen name="title_top_padding">5dp</dimen>
+    <dimen name="subtitle_top_padding">1dp</dimen>
+    <dimen name="title_margin_left">10dp</dimen>
+    <dimen name="subtitle_padding_right">5dp</dimen>
+    <dimen name="offer_text_size">10sp</dimen>
+
+    <!--ToDo dimen For ItemListDetail-->
+    <dimen name="estimate_text_size">20sp</dimen>
+    <dimen name="price_box_height">45dp</dimen>
+    <dimen name="price_box_width">160dp</dimen>
+    <dimen name="price_text_size">14sp</dimen>
+    <dimen name="content_text_size">14sp</dimen>
+    <dimen name="content_top_margin">20dp</dimen>
+    <dimen name="bhk_relative_height">120dp</dimen>
+    <dimen name="bhk_relative_width">200dp</dimen>
+    <dimen name="view_incrementer_width">100dp</dimen>
+    <dimen name="view_incrementer_height">35dp</dimen>
+    <dimen name="top_margin_for_bhk">32dp</dimen>
+    <dimen name="padding_minus">15dp</dimen>
+    <dimen name="padding_plus">5dp</dimen>
+    <dimen name="bhk_text_size">18sp</dimen>
+    <dimen name="seprator_size">1dp</dimen>
+    <dimen name="content_top_padding_5">5dp</dimen>
+    <dimen name="content_top_padding_10">10dp</dimen>
+    <dimen name="content_top_padding_12">12dp</dimen>
+    <dimen name="heading_margin">25dp</dimen>
+</resources>

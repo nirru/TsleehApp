@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Tsleeh</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Placeholder or Text for Menu Screen -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="selectCity">
+        <item>jaipur</item>
+        <item>alwar</item>
+        <item>bikaner</item>
+        <item>Ajmer</item>
+        <item>Kota</item>
+        <item>jhunjhunu</item>
+    </string-array>
+    <string name="action_cleaning">Cleaning</string>
+    <string name="action_pest">Pest Control</string>
+    <string name="action_electrical">Electrical</string>
+    <string name="action_plumbing">Plumbing</string>
+    <string name="action_appliance">Appliances</string>
+    <string name="action_carpentry">Carpentry</string>
+
+    <!-- TODO: Placeholder or Text for List Screen -->
+    <string name="pest_control">Pest Control</string>
+    <string name="pest_control_desc">Get rid of the pest control from your home.</string>
+    <string name="offer">New Here&#63; Get 10% on your first service. Use coupan code PEST10</string>
+
+    <!-- TODO: Placeholder or ListDetail Screen -->
+    <string name="estimate">Estimate</string>
+    <string name="hint_price">Total Rs:1200</string>
+    <string name="decs_req_string">Select quantity based on your requirement.</string>
+    <string name="whats_included">What\'s included&#63;</string>
+    <string name="pest_detail_script1">General pest controll includes cockroaches, silverfish and red/black ants treatment.</string>
+    <string name="pest_detail_script2">Chemicals certified by World Health Organisation will be used</string>
+    <string name="pest_detail_script3">Safe odorless with a long lasting effect.</string>
+    <string name="string_2bhk">2 BHK</string>
+
+
+</resources>

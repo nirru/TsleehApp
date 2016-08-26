@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="layout_linear"/>
+    <item type="id" name="layout_relative"/>
+    <item type="id" name="button_cleaning" />
+    <item type="id" name="button_pest" />
+    <item type="id" name="button_electrical" />
+    <item type="id" name="button_plumbing" />
+    <item type="id" name="button_appliance" />
+    <item type="id" name="button_carpentry" />
+    <item type="id" name="text_cleaning" />
+    <item type="id" name="text_pest" />
+    <item type="id" name="text_electrical" />
+    <item type="id" name="text_plumbing" />
+    <item type="id" name="text_appliance" />
+    <item type="id" name="text_carpentry" />
+    <item type="id" name="shader"/>
+    <item type="id" name="tool_kit"/>
+    <item type="id" name="list_item_title"/>
+    <item type="id" name="list_item_subtitle"/>
+    <item type="id" name="id_ribion"/>
+    <item type="id" name="id_recyleview"/>
+    <item type="id" name="estimate"/>
+    <item type="id" name="total_price"/>
+    <item type="id" name="seperator"/>
+    <item type="id" name="decs_req_string"/>
+    <item type="id" name="bhk_relative"/>
+    <item type="id" name="plus"/>
+    <item type="id" name="minus"/>
+    <item type="id" name="temp_title"/>
+    <item type="id" name="temp_1"/>
+    <item type="id" name="temp_2"/>
+    <item type="id" name="temp_3"/>
+    <item type="id" name="seprator_1"/>
+    <item type="id" name="seprator_2"/>
+    <item type="id" name="button_continue"/>
+
+</resources>
